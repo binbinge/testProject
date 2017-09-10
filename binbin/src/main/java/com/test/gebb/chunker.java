@@ -16,7 +16,7 @@ public class chunker {
     }
 
     public void local(){
-
+        String value = "1";
     }
     
     public void web() {
