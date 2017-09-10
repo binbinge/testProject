@@ -23,4 +23,6 @@ public class test {
 
     }
 
+    public void another(){
+    }
 }
