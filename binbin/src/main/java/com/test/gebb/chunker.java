@@ -22,5 +22,6 @@ public class chunker {
     }
     
     public void web() {
+        int i=2;
     }
 }
