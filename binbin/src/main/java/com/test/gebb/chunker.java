@@ -14,5 +14,9 @@ public class chunker {
     public void addConflict() {
     
     }
+
+    public void local(){
+
+    }
     
 }
