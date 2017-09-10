@@ -17,6 +17,7 @@ public class chunker {
 
     public void local(){
         String value = "1";
+        Long id = 123456789L;
     }
     
     public void web() {
